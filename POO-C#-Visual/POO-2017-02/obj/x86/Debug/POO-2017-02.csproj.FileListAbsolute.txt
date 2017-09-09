@@ -1,0 +1,14 @@
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\bin\Debug\POO-2017-02.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\bin\Debug\POO-2017-02.pdb
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\obj\x86\Debug\POO_2017_02.Form1.resources
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\obj\x86\Debug\POO_2017_02.Properties.Resources.resources
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\obj\x86\Debug\POO-2017-02.csproj.GenerateResource.Cache
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\obj\x86\Debug\POO-2017-02.exe
+C:\Users\Administrador\AppData\Local\Temporary Projects\POO-2017-02\obj\x86\Debug\POO-2017-02.pdb
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\obj\x86\Debug\POO-2017-02.exe
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\obj\x86\Debug\POO-2017-02.pdb
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\bin\Debug\POO-2017-02.exe
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\bin\Debug\POO-2017-02.pdb
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\obj\x86\Debug\POO_2017_02.Form1.resources
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\obj\x86\Debug\POO_2017_02.Properties.Resources.resources
+D:\OneDrive\003 - Desenvolvimento\Visual Studio 2010\Projects\POO-2017-02\POO-2017-02\obj\x86\Debug\POO-2017-02.csproj.GenerateResource.Cache
