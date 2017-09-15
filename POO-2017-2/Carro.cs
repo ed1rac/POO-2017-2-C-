@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace POO_2017_2
 {
     class Carro
@@ -19,7 +20,7 @@ namespace POO_2017_2
 
         public void ligar()
         {
-            Console.WriteLine("O carro " + this.modelo + " ligou!"); Console.ReadLine();
+            Console.WriteLine("O carro " + modelo + " ligou!"); Console.ReadLine();            
         }
 
         public void acelerar()
