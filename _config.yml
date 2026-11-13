@@ -1,0 +1,5 @@
+theme: jekyll-theme-merlot
+title: "💻 Programação Orientada a Objetos em C# (2017.2)"
+description: "Exercícios práticos e projetos da disciplina de POO com C# e .NET ministrada na Uninorte."
+kramdown:
+  parse_block_html: true
